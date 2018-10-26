@@ -1,8 +1,0 @@
-
-*.properties
-*.class
-*.iml
-.idea
-*.xml
-target
-
